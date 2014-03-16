@@ -3,6 +3,8 @@ About
 
 Sick of finding out the F1 result before you've had a chance to watch it? This script finds any stories and links mentioning F1-related terms on the BBC News website and blurs them out, allowing you to browse the rest of the news without finding out who won the race or qualified on pole.
 
+If you want to see a piece of blurred content then you can click on it to remove the blur.
+
 **Easily adaptable to other contexts, just replace the list of keywords with those that may occur in news articles you want to blur out.**
 
 Compatible with (at least) recent versions of Mozilla Firefox and Google Chrome.
@@ -19,7 +21,7 @@ javascript:(function(){function r(n){n.preventDefault();this.className=this.clas
 
 Then browse to BBC News and click the new bookmark to blur out stories.
 
-<small>Unfortunately GitHub [does not allow](https://github.com/github/markup/issues/79) JavaScript in links here, so you have to manually create the bookmark rather than just dragging a bookmarklet to your bookmarks toolbar.</small>
+Unfortunately GitHub [does not allow](https://github.com/github/markup/issues/79) JavaScript in links here, so you have to manually create the bookmark rather than just dragging a bookmarklet to your bookmarks toolbar.
 
 ---
 
