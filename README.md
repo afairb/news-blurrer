@@ -1,7 +1,7 @@
 About
 =====
 
-Sick of finding out the F1 result before you've had a chance to watch it? This script finds any stories and links mentioning F1-related terms on the various news and sports websites and blurs them out, allowing you to browse the rest of the news or sport without finding out who won the race or qualified on pole.
+Sick of finding out the F1 result before you've had a chance to watch it? This script finds any stories and links mentioning F1-related terms on various news and sports websites and blurs them out, allowing you to browse the rest of the news or sport without finding out who won the race or qualified on pole.
 
 If you want to see a piece of blurred content then you can click on it to remove the blur.
 
